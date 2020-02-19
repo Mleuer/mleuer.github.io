@@ -1,0 +1,79 @@
+body {
+    background-color: cadetblue;
+    color:black;
+}
+
+.header {
+    margin-top: 15px;
+    padding-left: 12px;
+}
+
+h1 {
+    font-size: 48pt;
+}
+
+.float-left {
+    float: left;
+    margin-right: 20px;
+}
+
+.nav-item {
+    
+}
+
+
+
+/* Styling for Portfolio page */
+
+.project-link {
+    color:red;
+    position: absolute;
+    top: 75%;
+    left: 21%;
+}
+
+
+
+
+
+
+@media screen and (max-width: 768px) {
+    .wrapper {
+      /* Box-model */
+      width: 100%;
+      padding: 20px;
+    }
+  
+    .main-content {
+      width: 100%;
+    }
+  
+  }
+  
+  /* Additional Screen Sizes */
+  
+  /* Width at 320px and below */
+  @media screen and (max-width: 320px) {
+    .wrapper {
+      /* Box-model */
+      width: 100%;
+      padding: 20px;
+    }
+  
+    .main-content {
+      width: 100%;
+    }
+  }
+  
+  /* Width at 168px and below */
+  @media screen and (max-width: 168px) {
+    .wrapper {
+      /* Box-model */
+      width: 100%;
+      padding: 20px;
+    }
+  
+    .main-content {
+      width: 100%;
+    }
+  }
