@@ -46,6 +46,10 @@ h1 {
     .img-fluid {
       margin-bottom: 15px;
     }
+
+    h1 {
+      font-size: 32pt;
+  }
   
   }
   
@@ -67,6 +71,10 @@ h1 {
       margin-bottom: 15px;
     }
 
+    h1 {
+      font-size: 32pt;
+  }
+
   }
   
   /* Width at 168px and below */
@@ -84,4 +92,8 @@ h1 {
     .img-fluid {
       margin-bottom: 15px;
     }
+
+    h1 {
+      font-size: 32pt;
+  }
   }
