@@ -21,14 +21,28 @@ h1 {
 /* Styling for Portfolio page */
 
 .project-link {
-    color:red;
-    position: absolute;
-    top: 75%;
-    left: 15%;
+  color: black;  
+  background-color: cadetblue;
+  position: absolute;
+  top: 75%;
+  left: 20%;
+  padding: 10px;
+  border-radius: 20px;
 }
 
+.nav-link {
+  margin-left: 15px;
+}
 
+.img-fluid {
+  width: 300px;
+  height: 300px;
+}
 
+#contact-me-img {
+  height: auto;
+  width: auto;
+}
 
 
 
