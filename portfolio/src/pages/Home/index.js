@@ -1,6 +1,5 @@
 import React from "react";
-import Header from "../../components/Header";
-import "./index.css";
+import "./style.css";
 
 function Home() {
   return (
@@ -20,6 +19,7 @@ function Home() {
                 aria-label="github"
                 className="social-link"
                 target="_blank"
+                rel="noopener noreferrer"
                 href="https://github.com/Mleuer"
               >
                 <i class="fab fa-github fa-2x"></i>
@@ -30,6 +30,7 @@ function Home() {
                 aria-label="LinkedIn"
                 className="social-link"
                 target="_blank"
+                rel="noopener noreferrer"
                 href="https://www.linkedin.com/in/matt-leuer-49753a19b/"
               >
                 <i class="fab fa-linkedin fa-2x"></i>
