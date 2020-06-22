@@ -1,4 +1,5 @@
 import React from "react";
+import Header from "../../components/Header";
 import "./index.css";
 
 function Home() {
@@ -15,12 +16,22 @@ function Home() {
           ></img>
           <ul className="social-list">
             <li className="social-item">
-              <a aria-label="github" className="social-link"href="#">
+              <a
+                aria-label="github"
+                className="social-link"
+                target="_blank"
+                href="https://github.com/Mleuer"
+              >
                 <i class="fab fa-github fa-2x"></i>
               </a>
             </li>
             <li className="social-item">
-              <a aria-label="LinkedIn" className="social-link" href="#">
+              <a
+                aria-label="LinkedIn"
+                className="social-link"
+                target="_blank"
+                href="https://www.linkedin.com/in/matt-leuer-49753a19b/"
+              >
                 <i class="fab fa-linkedin fa-2x"></i>
               </a>
             </li>

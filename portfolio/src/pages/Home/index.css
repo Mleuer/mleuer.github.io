@@ -2,13 +2,14 @@
     box-sizing: border-box;
 }
 
-
 .home-container {
     line-height: 1.6;
     min-height: 100vh;
     display: grid;
+    align-content: flex-start;
     place-items: center;
 }
+
 
 .card {
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
