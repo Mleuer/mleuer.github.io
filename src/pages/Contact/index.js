@@ -4,16 +4,14 @@ import "./style.css";
 function Contact() {
   return (
     <>
-    <div className="container">
-      
-    </div>
+      <div className="container"></div>
       <div className="row">
         <div className="col">
           <div className="card">
-            <a className="card-header" href="mailto:mattleuer@gmail.com">
-              Email Me
-            </a>
             <ul className="list-group list-group-flush">
+              <a className="list-group-item" href="mailto:mattleuer@gmail.com">
+                Email Me
+              </a>
               <a
                 className="list-group-item"
                 href="Assets/Matthew Leuer -- Resume.pdf"
