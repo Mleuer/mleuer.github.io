@@ -91,17 +91,17 @@ function Portfolio() {
         </div>
 
         <div className="card">
-          <a href="/" target="_blank" rel="noopener noreferrer">
+          <a href="https://color-story.herokuapp.com/" target="_blank" rel="noopener noreferrer">
             <div className="card-image-container">
               <img
-                src={require("../../assets/Images/coming-soon.jpeg")}
+                src={require("../../assets/Images/colorstory.png")}
                 alt="project 5"
               ></img>
             </div>
             <div className="card-content">
-              <p className="card-title text-medium">Final Project</p>
+              <p className="card-title text-medium">Color Story</p>
               <div className="card-info">
-                <p className="text-medium">Project Description</p>
+                <p className="text-medium">Social media for artists</p>
               </div>
             </div>
           </a>
