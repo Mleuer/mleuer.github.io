@@ -3,25 +3,27 @@
 https://quizzical-archimedes-1b2c3e.netlify.app
 
 
-# Responsive Portfolio
+# React Portfolio
 
+Portfolio designed to showcase web development projects and responsive design skills.
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes.
 
+## Project Structure
 
-## About
+* Home Page
+ - An `About Me` section with an image and a short bio.
 
-* This project consists of three main pages; `index.html`, `portfolio.html` and `contact.html`.
+* Portfolio
+ - `Gallery` of projects with links to deployed sites.  
 
-* Each page uses Bootstrap in order to better ensure that page elements are mobile responsive.
+* Contact
+ - A basic page for anyone who wants to send a message.
 
-* The `index.html` page consists of:
 
-   * An `About Me` section with an image and a short bio.
+## Tools
 
-* The `portfolio.html` page consists of:
+* React.js
 
-   * A `Gallery` of some sort with repeating images overlaid with links. This is to be filled in later with your projects!
+* CSS
 
-* The `contact.html` page consists of:
-
-   * A basic form for anyone who wants to send a message.
+* Bootstrap
