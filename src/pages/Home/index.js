@@ -36,6 +36,17 @@ function Home() {
                 <i class="fab fa-linkedin fa-2x"></i>
               </a>
             </li>
+            <li className="social-item">
+              <a
+                aria-label="email"
+                className="social-link"
+                target="_blank"
+                rel="noopener noreferrer"
+                href="mailto:mattleuer@gmail.com"
+              >
+                <i class="fas fa-envelope-square fa-2x"></i>
+              </a>
+            </li>
           </ul>
         </div>
         <div className="profile-main">
