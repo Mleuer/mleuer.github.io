@@ -10,14 +10,14 @@ function Contact() {
           <div className="card">
             <ul className="list-group list-group-flush">
               <a className="list-group-item" href="mailto:mattleuer@gmail.com">
-                Email Me
+                Email Me: mattleuer@gmail.com
               </a>
               <a
                 className="list-group-item"
                 href="Assets/Matthew Leuer -- Resume.pdf"
                 download="Matthew-Leuer-Resume"
               >
-                Resume
+                Download My Resume
               </a>
               <a className="list-group-item" href="https://github.com/Mleuer">
                 Github
